@@ -10,11 +10,6 @@ Skills
 - SQL
 
 
-Projects
-Here are some of the projects I've worked on:
-
-Project 1: Coming soon
-
 Contact
 If you'd like to get in touch with me, you can reach me at arnesto79@icloud.com I'm always open to collaborating on new projects or answering any questions you may have.
 
