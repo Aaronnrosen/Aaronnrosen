@@ -11,7 +11,7 @@ Skills
 
 
 Contact
-If you'd like to get in touch with me, you can reach me at arnesto79@icloud.com I'm always open to collaborating on new projects or answering any questions you may have.
+If you'd like to get in touch with me, you can reach me at aaron.r1@proton.me I'm always open to collaborating on new projects or answering any questions you may have.
 
 Thank You
 
