@@ -8,6 +8,9 @@ Skills
 - CSS
 - Python
 - SQL
+- Javascript
+- PHP
+- Pentesting
 
 
 Contact
